@@ -74,7 +74,7 @@ p {
 }
 
 .sidebar-wrapper .name {
-  font-size: 32px;
+  font-size: 20px;
   font-weight: 900;
   margin-top: 0;
   margin-bottom: 10px;
@@ -111,7 +111,7 @@ p {
 }
 
 .sidebar-wrapper .container-block {
-  padding: 30px;
+  padding: 10px;
 }
 
 .sidebar-wrapper .container-block-title {
